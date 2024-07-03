@@ -13,9 +13,11 @@ Developing dashboards on PowerBI.
 
 Here are a few projects that showcase my skills:
 
-[SQL Projects](https://github.com/Ilackkeya/SQL_Projects)
-[Data Analysis Projects](https://github.com/Ilackkeya/Data_Analysis_Projects)
-[Genre Classification System - Data Analysis Project](https://github.com/Ilackkeya/Video-Streaming-Platform-Data-Analytics)
+[SQL Projects](https://github.com/Ilackkeya/SQL_Projects) : Projects where I dive deep into querying datasets using SQL techniques.
+
+[Data Analysis Projects](https://github.com/Ilackkeya/Data_Analysis_Projects) : Jupyter notebooks and PowerBI dashboard demonstrating data cleaning, analysis, and visualization with Python.
+
+[Genre Classification System - Data Analysis Project](https://github.com/Ilackkeya/Video-Streaming-Platform-Data-Analytics) : Project aiming to establish the growth trends of the TV shows and Movies precedence in OTT (over-the-top) Platforms over the years implementing data analysis and visualizations using Python and PowerBI tools for the users (audience) to understand the popularity and expansion of TV shows and Movies in video streaming platforms.
 
 ## Get in Touch
 
