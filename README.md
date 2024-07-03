@@ -4,9 +4,9 @@ I'm Ilackkeya, a researcher turned data nerd with a strong focus on SQL and Pyth
 
 ## What I do
 
-Data analysis and reporting using Python and Excel.
-Querying data using SQL.
-Developing dashboards on PowerBI.
+- Data analysis and reporting using Python and Excel.
+- Querying data using SQL.
+- Developing dashboards on PowerBI.
 
 
 ## Projects
