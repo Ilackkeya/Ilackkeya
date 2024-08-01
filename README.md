@@ -19,6 +19,8 @@ Here are a few projects that showcase my skills:
 
 - [Genre Classification System - Data Analysis Project](https://github.com/Ilackkeya/Video-Streaming-Platform-Data-Analytics) :  Project aiming to establish the growth trends of the TV shows and Movies precedence in OTT (over-the-top) Platforms over the years implementing data analysis and visualizations using Python and PowerBI tools for the users (audience) to understand the popularity and expansion of TV shows and Movies in video streaming platforms.
 
+- [UK National Rail Performance 2024](https://github.com/Ilackkeya/UK-National-Rail-Performance-Project) - In this project, we have utilized extensive data engineering and data analytics workflows which is essentially built to analyze the UK National Rail Schedule Performance. Our Client, UK National Railway Board of Directors wanted to understand the UK National Schedule Performance, delay compensation efficiency of Train Operating Companies (TOCs) in enhancing user experience and build a predictive model to predict any delay of a scheduled train.
+
 ## Get in Touch
 
 I'm always open to collaboration, learning opportunities, and connecting with like-minded individuals. 
