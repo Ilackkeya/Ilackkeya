@@ -11,7 +11,8 @@ I'm Ilackkeya, a researcher turned data nerd with a strong focus on SQL and Pyth
 
 ## Projects
 
-Here are a few projects that showcase my skills:
+Here are a few projects/challenges that showcase my skills:
+- [Excel Challenges](https://github.com/Ilackkeya/Excel_Projects): Challenges that I solved to refresh my Excel knowledge. 
 
 - [SQL Projects](https://github.com/Ilackkeya/SQL_Projects) :  Projects where I dive deep into querying datasets using SQL techniques.
 
